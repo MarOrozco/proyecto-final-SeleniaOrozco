@@ -43,7 +43,7 @@ git push origin main
 
 ## 5. Capturas del proceso
 
-![Creacion repositorio](imagenes/Creacion-repositorio.png)
+! [Creacion repositorio](imagenes/Creacion-repositorio.png)
 ![Creacion carpeta y init](imagenes/Creacion-carpeta y init.png)
 ![creacion-ramaA-ramaB](imagenes/creacion-ramaA-ramaB.png)
 ![Ajuste-ramaA](imagenes/Ajuste-ramaA.png)
